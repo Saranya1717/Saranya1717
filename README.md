@@ -2,7 +2,7 @@
 
 1. Biomedical Engineering Student  
 2. Interested in AI & Medical Technology  
-3. Python|Cloud Computing|javascript|Mern full Stack|Data Analytics  
+3. Python| Cloud Computing | javascript | Mern full Stack | Data Analytics  
 4. Building projects to improve my skills  
 
 ##  Skills
