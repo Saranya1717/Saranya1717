@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Saranya 👋
 
-<!--
-**Saranya1717/Saranya1717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Engineering Student  
+💡 Interested in AI & Medical Technology  
+💻 Python|Cloud Computing|javascript|Mern full Stack|Data Analytics  
+🚀 Building projects to improve my skills  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- javascript (Beginner)
+- Cloud Computing (Learning)
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a Cloud Engineer
+- Work on AI in Healthcare
+- Build real-world projects
+- software Developer
+
+## 📌 Projects
+- Smart Attendance System using IoT – Built a WiFi-based automatic student attendance tracking system using Arduino, IoT sensors, and embedded C. Enabled real-time data monitoring without manual intervention.
+Spatially Enabled Digital Twin for Forecasting Seasonal Influenza Outbreaks – Developed a data-driven digital twin model using Python, Machine Learning, and Anylogic simulation to predict influenza outbreaks. Involved healthcare data analysis and AI modeling.
+AR for Medical Device Exploration – Created an interactive Augmented Reality application using Unity 3D and C for Android to visualize and explore medical devices in 3D, enhancing medical education.
+Micturition Alert Belt for Bedridden Patients – Designed a sensor-based wearable alert device using Arduino and embedded systems to monitor and notify caregivers for bedridden patients, improving patient care quality.
