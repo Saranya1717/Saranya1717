@@ -1,18 +1,18 @@
 # Hi, I'm Saranya 
 
 1. Biomedical Engineering Student  
-2. Interested in AI & Medical Technology  
-3. Python| Cloud Computing | javascript | Mern full Stack | Data Analytics  
+2. Artificial Intelligence & Machine Learning  
+3. Python|Java| javascript | full Stack | AI video Creater
 4. Building projects to improve my skills  
 
 ##  Skills
 - javascript (Beginner)
-- Cloud Computing (Learning)
+- AL&ML
 - Problem Solving
 
 ##  Goals
-- Become a Cloud Engineer
-- Work on AI in Healthcare
+- AI Video Creater
+- Web Development
 - Build real-world projects
 - software Developer
 
